@@ -30,6 +30,10 @@ dist/
 *~
 .DS_Store
 Thumbs.db
+*:Zone.Identifier
+
+# Saidas geradas localmente
+resultados/
 
 # Variaveis locais
 .env
